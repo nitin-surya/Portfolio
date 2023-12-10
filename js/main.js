@@ -54,12 +54,12 @@
         }
     });
     $('.back-to-top').click(function () {
-        $('html, body').animate({ scrollTop: 0 }, 1500, 'easeInOutExpo');
+        $('html, body').animate({ scrollTop: 0 }, 0, 'easeInOutExpo');
         return false;
     });
 
     $('.scroll-to-about').click(function () {
-        $('html, body').animate({ scrollTop: 300 }, 1500, 'easeInOutExpo');
+        $('html, body').animate({ scrollTop: 647 }, 0, 'easeInOutExpo');
         return false;
     });
 
