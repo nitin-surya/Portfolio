@@ -496,7 +496,7 @@
 .nav-bar {
     width: 35%;
     text-align: center;
-
+    display: flex
 }
 
 .img-project {
