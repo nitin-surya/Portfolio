@@ -512,3 +512,9 @@
     /* min-height: 210px; */
     min-width: 100%;
 }
+
+.profile-img {
+    height: 6%;
+    width: 7%;
+    margin-right: 7px;
+}
